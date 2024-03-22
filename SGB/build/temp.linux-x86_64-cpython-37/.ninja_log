@@ -1,0 +1,6 @@
+# ninja log v5
+6	12255	1710274137312851358	/home/zhang/RP/Scene-Graph-Benchmark.pytorch/build/temp.linux-x86_64-cpython-37/home/zhang/RP/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_pool_kernel_cuda.o	fe9449f6ba193f29
+4	12630	1710274137682851604	/home/zhang/RP/Scene-Graph-Benchmark.pytorch/build/temp.linux-x86_64-cpython-37/home/zhang/RP/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cuda/deform_conv_kernel_cuda.o	6800c4e8197be16c
+1	16068	1710274141112854692	/home/zhang/RP/Scene-Graph-Benchmark.pytorch/build/temp.linux-x86_64-cpython-37/home/zhang/RP/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cpu/nms_cpu.o	4a3cb38af9137af3
+0	16078	1710274141122854707	/home/zhang/RP/Scene-Graph-Benchmark.pytorch/build/temp.linux-x86_64-cpython-37/home/zhang/RP/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/cpu/ROIAlign_cpu.o	57f3b6d789f0a401
+7	17525	1710274142572856801	/home/zhang/RP/Scene-Graph-Benchmark.pytorch/build/temp.linux-x86_64-cpython-37/home/zhang/RP/Scene-Graph-Benchmark.pytorch/maskrcnn_benchmark/csrc/vision.o	b11cb9f01c58534
